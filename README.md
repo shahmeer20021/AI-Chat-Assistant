@@ -79,10 +79,10 @@ ai-assistant-pro/
 # 📸 Preview
 
 ### 💬 Chat Mode
-![Chat Mode](screenshots/chat.webp)
+![Chat Mode](./chat.webp)
 
 ### 📄 PDF Mode
-![PDF Mode](screenshots/pdf.webp)
+!![PDF Mode](./pdf.webp)
 
 ---
 
